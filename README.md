@@ -20,14 +20,8 @@
 
 ### Connect with Me :
 
-<button> 
-  <a href="https://www.linkedin.com/in/mostafa-emad-gomaa-6449891a2/" target="_blank">
-  <h5> MY linkedin profile </h5>
-  </a> 
-</button>
-<a href="https://t.me/@Darsh_Gomaa" target="_blank">
-  <img src="https://img.shields.io/badge/-mostafa-Emad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/mostafa-emad-gomaa-6449891a2/" target="_blank"> </a> 
+<a href="https://t.me/Darsh_Gomaa" target="_blank"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
