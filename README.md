@@ -20,8 +20,8 @@
 
 ### Connect with Me :
 
-  <a href="https://www.linkedin.com/in/mostafa-emad-gomaa-6449891a2/" target="_blank"> </a> 
-<a href="https://t.me/Darsh_Gomaa" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mostafa-emad-gomaa-6449891a2/" target="_blank"> My linked in </a> 
+<a href="https://t.me/Darsh_Gomaa" target="_blank"> My telegram  </a>
 
 
 ### 🛠 &nbsp;Tech Stack
