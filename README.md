@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML, CSS, and JavaScript, or anything related to web development.
 <!-- - ⚡ Fun Fact: I'm a very intrested in reading  and my perfect day would start and end with a at less reading on page from a book. -->
-- 👨‍💻 Check out my portfolio at   <a href="https://mostafaemad228.github.io/New_Portofolio/"  target="_blank"> My Portofolio</a> 
+- 👨‍💻 Check out my portfolio at   <a href="https://mostafaemad228.github.io/New_Portofolio/"  target="_blank"> https://mostafaemad228.github.io/New_Portofolio/ </a> 
  to see some of the projects I've worked on.
 
 
@@ -43,6 +43,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
